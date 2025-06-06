@@ -27,4 +27,4 @@ def main(skin_name):
 
 
 if __name__ == "__main__":
-    main("hacker")  # or get from config.json
+    main("hacker")  # think of using a config file
