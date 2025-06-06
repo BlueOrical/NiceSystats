@@ -1,7 +1,7 @@
 import time
 import os
 from rich.console import Console
-from system_stats2 import get_system_stats
+from system_stats import get_system_stats
 from skins import load_skin
 
 console = Console()
